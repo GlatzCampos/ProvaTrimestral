@@ -1,0 +1,74 @@
+.livr1{
+    background-color: #F16A78;
+}
+
+.livr2{
+    background-color: #30B4BB;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.logo{
+    padding-left: 4.2rem;
+}
+
+.livro1{
+    padding-left: 25rem;
+}
+
+.livro2{
+    padding-left: 20rem;
+}
+
+.github{
+    padding-top: 7px;
+    padding-left: 15rem;
+    width: 3rem;
+    height: 3rem;
+}
+
+.l1{
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    display: flex;
+    display: inline-flex;
+    background-color: #ff8b38;
+    position: absolute;
+    width: 82.5rem;
+    height: 60px;
+    border-radius: 16px;
+}
+
+.l2{
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    display: flex;
+    display: inline-flex;
+    background-color: #D2DAFF;
+    position: absolute;
+    width: 82.5rem;
+    height: 60px;
+    border-radius: 16px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2rem;
+
+}
+
+.imagem{
+    padding-top: 3rem;
+}
+
+.paragrafo{
+    padding-right: 5rem;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    width: 50rem;
+}
